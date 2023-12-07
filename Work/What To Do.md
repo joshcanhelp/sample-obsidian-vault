@@ -17,7 +17,7 @@
 - Util app -> Fastify
 - Fastify SDK
 - [[Technology/HTMX|HTMX]] auth guidance (login and API)
-- Obsidian/MD scripts
+- [[Obsidian]]/MD scripts
 - [[Technology/Keyboard]]
 - Newsletter + RSS to reader feed
 	- Import Pocket

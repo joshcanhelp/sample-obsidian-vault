@@ -1,0 +1,37 @@
+- What we'll cover:
+	- Daily notes and templates
+	- Linking
+	- Project notes and structure
+	- Problems
+- What we won't:
+	- How we got here (see the post)
+	- Community plugins (I don't use any)
+	- Personal settings/themes/styling
+- Daily notes and templates
+	- It all starts here!
+	- Lowest possible bar to writing something down
+	- Keeps focus on what needs to be done today, not everything
+	- Reminders/prompts tend to become invisible
+- Linking
+	- You can actually drive yourself crazy here
+	- Linked + unlinked mentions (core plugins)
+- Project notes and structure
+	- Big unlock for me
+	- Great to be able to review past projects + accomplishments
+	- Quarterly review, interviews, etc
+- Tags
+	- Use them somewhat
+	- Lightweight grouping for paragraphs and bullet points
+	- Have to decide between a tag and a page
+- Problems
+	- Quickly adding TODOs and notes on mobile
+		- Tried a few plugins, nothing quite right
+		- Would love to text a certain number and have it show up in a certain place
+	- Storage in other systems (Confluence, etc)
+		- Solution: drafts and personal notes only in [[Obsidian]]
+	- Other data storage (Day One, Strava, Oura, etc)
+		- Would like to take data for all days together
+		- Currently sync Oura data to daily note but it's manual
+		- Also export Day One to text but, again, manual
+		- Also search
+		- Thinking about it ... 
