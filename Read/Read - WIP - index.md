@@ -1,3 +1,0 @@
-- [Link 1](https://asasdasd)
-- [Link 2](https://asasdasd)
-- [Link 3](https://asasdasd)

@@ -1,1 +1,0 @@
-“the freedom comes in recognizing what the kind is like when you no longer pretend to control experience.” [[Sam Harris]] Choice, Freedom, and Knowledge #quote 
