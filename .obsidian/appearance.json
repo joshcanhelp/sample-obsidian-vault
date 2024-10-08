@@ -1,0 +1,10 @@
+{
+  "accentColor": "#3f59e4",
+  "baseFontSize": 16,
+  "theme": "moonstone",
+  "translucency": false,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "main"
+  ]
+}

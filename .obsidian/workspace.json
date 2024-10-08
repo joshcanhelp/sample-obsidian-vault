@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "74f63a115e4ec9ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3eeb00791dfd815",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c1a1c512691b9d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Sample Article.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54793c3e71939303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Sample Article.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc54b11b13280b9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "18069762a1a086aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08abd8c9513ce833",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7581e02d973bf87d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Pacifica",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0d4ee2f3cb552fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "right": {
+    "id": "9a0ea25c927237e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "49d20f15da76d997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67c470d857937b1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Media/Sample Article.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bbccc3c89096567",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Media/Sample Article.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29c02af34f7b725e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Media/Sample Article.md"
+              }
+            }
+          },
+          {
+            "id": "cb773baeeec2eb67",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "5e8982e690737033",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d657ec6adf91aa6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84936815158d1433",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Media/Sample Article.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "quickadd:QuickAdd": false
+    }
+  },
+  "active": "4c1a1c512691b9d7",
+  "lastOpenFiles": [
+    "_templates/Media - TV.md",
+    "Daily/2024/2024-10-08.md",
+    "TODO.md",
+    "README.md",
+    "Media/Sample Article.md",
+    "Media/Articles",
+    "Logs/2024-10-08T12-47-58 - Sample Meeting.md",
+    "Working/New Job.md",
+    "People/Alice.md",
+    "_templates/Project.md",
+    "Working/Sample Project.md",
+    "Organizations/Sample Organization.md",
+    "Logs/2024-10-08T12-41-50 - Notes - Sample Project log.md",
+    "_templates/Log - Project.md",
+    "_templates/Daily.md",
+    "_templates/Media - Article.md",
+    "Logs/2024-10-08T12-36-18 - Sample basic log.md",
+    "Working",
+    "_templates/Log - Quote.md",
+    "_templates/Log - Meeting.md",
+    "_templates/Log.md",
+    "Working/Money.md",
+    "Events/2024, Car pickup from Sacramento.md",
+    "_templates/Media - Podcast.md",
+    "_templates/Media - Book.md",
+    "Daily/2024/2024-10-07.md",
+    "Media/TV/The Franchise.md",
+    "Media/_inbox/Calling All Hackers.md",
+    "Read/_inbox",
+    "Read",
+    "_files/Media/1 - e94aDxz.jpg",
+    "_files/Media",
+    "_files/Media/19 - ZVgDZSE.jpg",
+    "_files/Media/18 - kFhNNPi.jpg",
+    "_files/Media/17 - Rc4AkBV.jpg",
+    "_files/Media/16 - mwwkJj0.jpg",
+    "_files/Media/15 - smg4ibh.jpg",
+    "_files/Media/14 - L7s2Mjg.png",
+    "_files/Media/13 - 8omK7Vz.jpg",
+    "_files/Media/12 - l30nqpV.png",
+    "_files/Media/11 - UF6mAne.jpg",
+    "_files/Screenshots",
+    "Logs/Strava",
+    "Logs/Strava",
+    "Media/Books/A Manual for Heartache",
+    "Log/quotes",
+    "Untitled.canvas"
+  ]
+}

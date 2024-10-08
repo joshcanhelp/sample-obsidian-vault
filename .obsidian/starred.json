@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Daily v2",
+      "path": "_templates/Daily.md"
+    },
+    {
+      "type": "file",
+      "title": "Health",
+      "path": "On Deck/Health.md"
+    }
+  ]
+}

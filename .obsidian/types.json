@@ -1,0 +1,24 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "glassdoor_score": "number",
+    "candidate": "checkbox",
+    "year_start": "number",
+    "year_end": "number",
+    "horsepower": "number",
+    "organizations": "multitext",
+    "meeting_duration": "number",
+    "minutes": "number",
+    "people": "multitext",
+    "projects": "multitext",
+    "author": "text",
+    "zip_code": "number",
+    "media": "multitext",
+    "parent": "text",
+    "tag": "text",
+    "file_tag": "text",
+    "created_by:": "multitext"
+  }
+}
